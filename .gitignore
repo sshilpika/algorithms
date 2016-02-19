@@ -16,6 +16,7 @@ tmp/*
 
 # python specific
 *.pyc
+__pycache__/*
 
 # xcode/iphone specific
 build/*
